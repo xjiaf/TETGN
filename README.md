@@ -1,4 +1,4 @@
-# Trajectory Encoding Temporal Graph Networks [[arXiv](https:)]
+# Trajectory Encoding Temporal Graph Networks [[arXiv](https://arxiv.org/abs/2504.11386)]
 
 ## Running the experiments
 
